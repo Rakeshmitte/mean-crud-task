@@ -125,6 +125,6 @@ Jenkins alternative:
 
 Jenkinsfile is included for Jenkins-based pipelines.
 
-<<<<<<< HEAD
+
 
 

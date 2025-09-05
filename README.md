@@ -127,6 +127,6 @@ Jenkinsfile is included for Jenkins-based pipelines.
 
 
 #Screenshots
-![image alt](https://github.com/Rakeshmitte/mean-crud-task/blob/07393ea28ea49b3ac6d994854d54e1dfdb863531/IMG-20250904-WA0009.jpg)
+![Image](https://github.com/user-attachments/assets/63a8232f-ed30-447b-b8f6-c33b823fcdbb)
 
 

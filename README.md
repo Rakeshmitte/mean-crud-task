@@ -126,4 +126,5 @@ Jenkins alternative:
 Jenkinsfile is included for Jenkins-based pipelines.
 
 
-![Image Alt](https://github.com/Rakeshmitte/mean-crud-task/blob/f9ede3f76d6bde41a7da502e94d392438b2ade0a/8e382af6eb634bb98adf354e43ad16ed.jpg)
+![Image Alt](https://github.com/Rakeshmitte/mean-crud-task/raw/f9ede3f76d6bde41a7da502e94d392438b2ade0a/8e382af6eb634bb98adf354e43ad16ed.jpg)
+

@@ -126,6 +126,6 @@ Jenkins alternative:
 Jenkinsfile is included for Jenkins-based pipelines.
 
 
-![8e382af6eb634bb98adf354e43ad16ed (1)](https://github.com/user-attachments/assets/116d7bb9-c175-4505-802e-a7a2f8991a9c)
+
 
 

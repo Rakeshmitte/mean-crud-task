@@ -125,9 +125,13 @@ Jenkins alternative:
 
 Jenkinsfile is included for Jenkins-based pipelines.
 
+<<<<<<< HEAD
 
 
 [![Image](https://github.com/user-attachments/assets/63a8232f-ed30-447b-b8f6-c33b823fcdbb)](https://github.com/user-attachments/assets/63a8232f-ed30-447b-b8f6-c33b823fcdbb)
 
 
 
+=======
+![Image](https://github.com/user-attachments/assets/63a8232f-ed30-447b-b8f6-c33b823fcdbb)
+>>>>>>> ecbe1e5 (Add screenshot section to README)

@@ -126,15 +126,6 @@ Jenkins alternative:
 Jenkinsfile is included for Jenkins-based pipelines.
 
 
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 9fd5607 (Move images to screenshots folder)
-
-
-## 📸 Screenshots
 
 ![Screenshot 1](screenshots/076717b7a1344b68b725d60faf000d56.jpg)
 ![Screenshot 2](screenshots/8e382af6eb634bb98adf354e43ad16ed.jpg)
@@ -146,3 +137,4 @@ Jenkinsfile is included for Jenkins-based pipelines.
 ![Screenshot 8](screenshots/61a02b05e9044079bf9fe4b5e623134f.jpg)
 ![Screenshot 9](screenshots/a87b1fc0f24249b3835cc8cd72c82402.jpg)
 ![Screenshot 10](screenshots/d6729d444d6e4e8fba120d31bedd55b7.jpg)
+
